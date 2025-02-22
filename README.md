@@ -9,4 +9,3 @@ The product quantity add and minus reflects in header section. Achived by using 
 
 Deployed the Work in Netilfy
 
-https://0react-redux-task.netlify.app/
